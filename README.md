@@ -1,7 +1,7 @@
 # Precision Oncology for Breast Cancer Diagnosis
 Master’s Thesis Research Repository
 
-This repository contains all scripts, workflows, and resources used to reproduce the results of my Master’s thesis:
+This repository contains scripts, workflows, and resources used to reproduce the results of my Master’s thesis:
 “Precision Oncology for Breast Cancer Diagnosis.”
 
 🧬 Overview

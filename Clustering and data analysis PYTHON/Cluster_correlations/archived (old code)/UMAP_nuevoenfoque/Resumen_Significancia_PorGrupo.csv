@@ -1,0 +1,6 @@
+"Grupo","n_vars","n_sig_p05","n_sig_p01","mejor_feature","mejor_p_adj"
+"🔥 1. Energía y Bioenergética",18,0,0,"MFI_L1w",0.401472164304214
+"🔴 2. Estado Redox y Anabolismo",12,1,1,"AnabolismScore_FBA",0.00108012620289459
+"🧈 3. Metabolismo Lipídico",7,0,0,"LipidPL_pFBA",0.269404604974905
+"🧪 4. Dependencias Metabólicas Específicas",10,1,0,"GlnDependence_pFBA",0.0453863769432841
+"🧩 5. Reprogramación Sistémica (SA_*)",201,7,1,"SA_Transport__nuclear_L1w",1.9502510572556e-05

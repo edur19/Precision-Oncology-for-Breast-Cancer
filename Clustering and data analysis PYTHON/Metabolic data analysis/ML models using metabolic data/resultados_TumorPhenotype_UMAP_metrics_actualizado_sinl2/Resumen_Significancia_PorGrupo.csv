@@ -1,0 +1,6 @@
+"Grupo","n_vars","n_sig_p05","n_sig_p01","mejor_feature","mejor_p_adj","max_abs_delta"
+"🔥 1. Energía y Bioenergética",18,0,0,"CU_pFBA",0.285750776095786,0.134231792768378
+"🔴 2. Estado Redox y Anabolismo",12,2,2,"AnabolismScore_FBA",1.40236330726641e-63,1
+"🧈 3. Metabolismo Lipídico",7,0,0,"LipidPL_FBA",0.506659887803594,0.0959170552666488
+"🧪 4. Dependencias Metabólicas Específicas",10,0,0,"Oncomet_Lactate_L1w",0.0896837096162852,0.145609023657804
+"🧩 5. Reprogramación Sistémica (SA_*)",201,2,2,"SA_Pentose_phosphate_pathway_FBA",7.76092680032557e-08,0.354582224500924

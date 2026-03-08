@@ -1,0 +1,10 @@
+"Grupo","n_vars","n_sig_p05","n_sig_p01","mejor_feature","mejor_p_adj"
+"Capacidad de Uso y Eficiencia de Activación",6,5,4,"CU_L1w",4.57943679448121e-05
+"Índice de Warburg",3,0,0,"WarburgIndex_L1w",0.386256647662454
+"ATP (Consumo y Producción)",6,6,4,"ATPConsumption_L1w",2.22702342578892e-05
+"Redox, Flujo y Anabolismo",9,1,1,"MFI_pFBA",0.00164900233446127
+"NADPH y TCA",6,2,2,"NADPHdemand_FBA",0.00247072956263992
+"Lípidos",7,3,3,"LipidPL_pFBA",5.37199448752009e-55
+"Dependencia de Glutamina",3,2,2,"GlnDependence_pFBA",5.90135015059791e-57
+"Oncometabolitos",7,1,0,"Oncomet_Succinate_L1w",0.0153786484836171
+"Subsystem Activity — Todas",201,66,49,"SA_Biomass_reactions_FBA",5.86718113279949e-90

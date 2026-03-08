@@ -1,0 +1,9 @@
+"Grupo","n_vars","n_sig_p05","n_sig_p01","mejor_feature","mejor_p_adj"
+"Capacidad de Uso y Eficiencia de Activación",6,0,0,"CU_L1w",0.620894965085857
+"Índice de Warburg",3,0,0,"WarburgIndex_L1w",0.765461884692096
+"Redox, Flujo y Anabolismo",8,1,1,"AnabolismScore_FBA",0.00548045401721532
+"NADPH y TCA",2,0,0,"NADPHdemand_L1w",0.572289174818151
+"Lípidos",4,0,0,"LipidPL_FBA",0.42601085015543
+"Dependencia de Glutamina",2,0,0,"GlnDependence_FBA",0.765461884692096
+"Oncometabolitos",4,0,0,"Oncomet_Succinate_L1w",0.42601085015543
+"Subsystem Activity — Todas",9,0,0,"SA_Fatty_acid_synthesis_L1w",0.39003265451167

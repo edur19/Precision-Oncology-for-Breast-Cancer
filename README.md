@@ -31,8 +31,6 @@ Clinical data
 
 Metabolic model outputs
 
-Transcriptomic data
-
 4. Cross-omics correlation analysis
 
 Comparison and correlation of clusters across all data types
